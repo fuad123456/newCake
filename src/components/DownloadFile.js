@@ -7,6 +7,7 @@ export default function DownloadFile(props) {
 	const formik=useFormik({
 		initialValues: {
 			userName: "",
+
 			email: "",
 			password: "",
 			tel: "",
@@ -35,7 +36,7 @@ export default function DownloadFile(props) {
 	<label htmlFor="input__file" className="input__file-button-for-registration">
 		<span className="btn btn-primary btn-sm w-75 df">
 			<img src={DowloadFile} style={{width:'30px', height:'30px'}} className="mr16" alt="Download"/>
-			<span >Загрузить справку</span>
+			<span >Загрузить справку </span>
 		</span>
 	</label>
 	</div>
