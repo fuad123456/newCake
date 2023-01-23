@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newCake/static/css/main.af5e2ca4.css",
-    "main.js": "/newCake/static/js/main.a6315c29.js",
+    "main.js": "/newCake/static/js/main.a4b03ee7.js",
     "static/js/787.66558dfa.chunk.js": "/newCake/static/js/787.66558dfa.chunk.js",
     "static/media/hero-img.jpg": "/newCake/static/media/hero-img.8d200460a0de3d3c1f2e.jpg",
     "static/media/registration-img.jpg": "/newCake/static/media/registration-img.37c8dff6dfa7e27c00e0.jpg",
@@ -37,11 +37,11 @@
     "static/media/partners-btn-next.svg": "/newCake/static/media/partners-btn-next.47cf0747622aa4c0165e.svg",
     "static/media/partners-btn-prev.svg": "/newCake/static/media/partners-btn-prev.86890a1acecd168394d7.svg",
     "main.af5e2ca4.css.map": "/newCake/static/css/main.af5e2ca4.css.map",
-    "main.a6315c29.js.map": "/newCake/static/js/main.a6315c29.js.map",
+    "main.a4b03ee7.js.map": "/newCake/static/js/main.a4b03ee7.js.map",
     "787.66558dfa.chunk.js.map": "/newCake/static/js/787.66558dfa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af5e2ca4.css",
-    "static/js/main.a6315c29.js"
+    "static/js/main.a4b03ee7.js"
   ]
 }
